@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Data>
+  <xs:schema id="Data" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Data" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DataField">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Field_x0020_1" type="xs:string" minOccurs="0" />
+                <xs:element name="Field_x0020_2" type="xs:string" minOccurs="0" />
+                <xs:element name="Field_x0020_3" type="xs:string" minOccurs="0" />
+                <xs:element name="Field_x0020_4" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>Februari</Field_x0020_2>
+    <Field_x0020_3 />
+    <Field_x0020_4>2</Field_x0020_4>
+  </DataField>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>Maret</Field_x0020_2>
+    <Field_x0020_3 />
+    <Field_x0020_4>3</Field_x0020_4>
+  </DataField>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>April</Field_x0020_2>
+    <Field_x0020_3>2,99</Field_x0020_3>
+    <Field_x0020_4>45</Field_x0020_4>
+  </DataField>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>Mei</Field_x0020_2>
+    <Field_x0020_3>84,25</Field_x0020_3>
+    <Field_x0020_4>67</Field_x0020_4>
+  </DataField>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>Juni</Field_x0020_2>
+    <Field_x0020_3>77,30</Field_x0020_3>
+    <Field_x0020_4>87</Field_x0020_4>
+  </DataField>
+  <DataField>
+    <Field_x0020_1>0,6</Field_x0020_1>
+    <Field_x0020_2>Juli</Field_x0020_2>
+    <Field_x0020_3>95,44</Field_x0020_3>
+    <Field_x0020_4 />
+  </DataField>
+</Data>
